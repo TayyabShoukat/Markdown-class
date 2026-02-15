@@ -1,4 +1,4 @@
-<img src="https://github.com/TayyabShoukat/Markdown-class/blob/master/WhatsApp%20Image%202026-01-25%20at%2011.05.46%20PM.jpeg" alt="image" width="200px" height="200px"/>
+![IMG](https://github.com/TayyabShoukat/Markdown-class/blob/master/WhatsApp%20Image%202026-01-25%20at%2011.05.46%20PM.jpeg)
 
 # Tayyab Shoukat
 **Senior AI Engineer | Backend Systems Architect**
